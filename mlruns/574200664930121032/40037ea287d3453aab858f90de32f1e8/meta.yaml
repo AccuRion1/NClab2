@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/user/Desktop/MachineLearn/Нейросети/lab2/mlruns/574200664930121032/40037ea287d3453aab858f90de32f1e8/artifacts
+end_time: 1772433326540
+entry_point_name: ''
+experiment_id: '574200664930121032'
+lifecycle_stage: active
+run_id: 40037ea287d3453aab858f90de32f1e8
+run_name: logistic_regression_v5_20260302_133520
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772433320923
+status: 3
+tags: []
+user_id: user

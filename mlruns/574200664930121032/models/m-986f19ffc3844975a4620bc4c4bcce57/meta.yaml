@@ -1,0 +1,10 @@
+artifact_location: file:c:/Users/user/Desktop/MachineLearn/Нейросети/lab2/mlruns/574200664930121032/models/m-986f19ffc3844975a4620bc4c4bcce57/artifacts
+creation_timestamp: 1772433315603
+experiment_id: '574200664930121032'
+last_updated_timestamp: 1772433320840
+model_id: m-986f19ffc3844975a4620bc4c4bcce57
+model_type: null
+name: models
+source_run_id: aa4fee483e064348b8fafabce6f0a454
+status: 2
+status_message: null
